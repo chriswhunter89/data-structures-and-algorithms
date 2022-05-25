@@ -27,7 +27,6 @@ class LinkedList:
         self.length += 1
         return True
 
-
     def pop(self):
         if self.length == 0:
             return None

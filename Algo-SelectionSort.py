@@ -10,4 +10,5 @@ def selection_sort(my_list):
             my_list[min_index] = temp
     return my_list
 
+
 print(selection_sort([4,2,6,5,1,3]))
